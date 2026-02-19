@@ -18,11 +18,6 @@ I build APIs, microservices, and production-ready web apps.
 
 ---
 
-### GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
 
----
 
 
